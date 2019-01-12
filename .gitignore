@@ -1,0 +1,11 @@
+/dist
+/node_modules
+# Editor junk
+*.sublime-workspace
+*.swp
+.idea/
+*.iml
+*.tmp
+.DS_Store
+.vscode/
+.vs/
