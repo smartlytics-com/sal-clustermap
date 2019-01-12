@@ -1,13 +1,13 @@
 {
   "type": "panel",
-  "name": "Segmentproxy Map",
+  "name": "SP Map",
   "id": "sp-map",
 
   "info": {
     "description": "Segmentproxy Map for grafana",
     "author": {
-      "name": "snuids",
-      "url": "https://github.com/segmentproxy/sp-map"
+      "name": "Segmentproxy",
+      "url": "https://github.com/segmentproxy"
     },
     "keywords": ["map", "panel"],
     "logos": {
