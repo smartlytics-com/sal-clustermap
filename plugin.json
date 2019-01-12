@@ -4,7 +4,7 @@
   "id": "sp-map",
 
   "info": {
-    "description": "Segmentproxy Map for grafana",
+    "description": "Segmentproxy Leaflet Map for Grafana",
     "author": {
       "name": "Segmentproxy",
       "url": "https://github.com/segmentproxy"
