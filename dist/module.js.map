@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["UdsMapCtrl"],"mappings":";;;;;;;;AAAQA,sB,gBAAAA,U;;;iCAGJA,U","file":"module.js","sourcesContent":["import {UdsMapCtrl} from './udsmap_ctrl';\n\nexport {\n    UdsMapCtrl as PanelCtrl\n};\n"]}

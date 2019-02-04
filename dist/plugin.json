@@ -1,0 +1,31 @@
+{
+  "type": "panel",
+  "name": "SP Map",
+  "id": "sp-map",
+
+  "info": {
+    "description": "Segmentproxy Leaflet Map for Grafana",
+    "author": {
+      "name": "Segmentproxy",
+      "url": "https://github.com/segmentproxy"
+    },
+    "keywords": ["map", "panel"],
+    "logos": {
+      "small": "src/img/logo.svg",
+      "large": "src/img/logo.svg"
+    },
+    "links": [
+      {"name": "Project site", "url": "https://github.com/segmentproxysp-map"},
+      {"name": "MIT License", "url": "https://github.com/ozinc/grafana-panel"}
+    ],
+    "screenshots": [
+      {"name": "Showcase", "path": "src/img/screenshot-radar-showcase.jpg"}
+    ],
+    "version": "1.0.0",
+    "updated": "2018-11-23"
+  },
+  "dependencies": {
+    "grafanaVersion": "5.x.x",
+    "plugins": [ ]
+  }
+}
