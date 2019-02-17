@@ -1,7 +1,7 @@
 {
-  "name": "sp-map",
+  "name": "sal-map",
   "version": "1.4.1",
-  "description": "Segmentproxy Map Plugin for Grafana",
+  "description": "Smartlytics Map Plugin for Grafana",
   "main": "src/module.js",
   "scripts": {
     "lint": "eslint --color .",
@@ -15,7 +15,7 @@
     "plugin",
     "panel"
   ],
-  "author": "Segmentproxy",
+  "author": "Smartlytics",
   "license": "MIT",
   "devDependencies": {
     "babel": "~6.5.1",

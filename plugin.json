@@ -1,13 +1,13 @@
 {
   "type": "panel",
-  "name": "SP Map",
-  "id": "sp-map",
+  "name": "SAL Map",
+  "id": "sal-map",
 
   "info": {
-    "description": "Segmentproxy Leaflet Map for Grafana",
+    "description": "Smartlytics Leaflet Map for Grafana",
     "author": {
-      "name": "Segmentproxy",
-      "url": "https://github.com/segmentproxy"
+      "name": "Smartlytics",
+      "url": "https://github.com/smartlytics"
     },
     "keywords": ["map", "panel"],
     "logos": {
@@ -15,8 +15,8 @@
       "large": "src/img/logo.svg"
     },
     "links": [
-      {"name": "Project site", "url": "https://github.com/segmentproxysp-map"},
-      {"name": "MIT License", "url": "https://github.com/ozinc/grafana-panel"}
+      {"name": "Project site", "url": "https://github.com/smartlytics-com/sal-clustermap"},
+      {"name": "MIT License", "url": "https://github.com/smartlytics-com/sal-clustermap"}
     ],
     "screenshots": [
       {"name": "Showcase", "path": "src/img/screenshot-radar-showcase.jpg"}
