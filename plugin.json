@@ -6,8 +6,8 @@
   "info": {
     "description": "Smartlytics Leaflet Map for Grafana",
     "author": {
-      "name": "Smartlytics",
-      "url": "https://github.com/smartlytics"
+      "name": "Smart Data & Analytics inc.",
+      "url": "https://github.com/smartlytics-com"
     },
     "keywords": ["map", "panel"],
     "logos": {

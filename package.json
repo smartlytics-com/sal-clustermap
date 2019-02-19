@@ -2,6 +2,10 @@
   "name": "sal-map",
   "version": "1.4.1",
   "description": "Smartlytics Map Plugin for Grafana",
+  "author": {
+    "name": "Smart Data & Analytics inc."
+  },
+
   "main": "src/module.js",
   "scripts": {
     "lint": "eslint --color .",
@@ -15,7 +19,6 @@
     "plugin",
     "panel"
   ],
-  "author": "Smartlytics",
   "license": "MIT",
   "devDependencies": {
     "babel": "~6.5.1",
