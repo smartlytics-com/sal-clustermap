@@ -5,7 +5,6 @@
   "author": {
     "name": "Smart Data & Analytics inc."
   },
-
   "main": "src/module.js",
   "scripts": {
     "lint": "eslint --color .",
