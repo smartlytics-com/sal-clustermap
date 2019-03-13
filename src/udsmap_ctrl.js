@@ -125,6 +125,8 @@ export class UdsMapCtrl extends MetricsPanelCtrl {
         }
       });
 
+      setTimeout(() => this.map.invalidateSize(), 100)
+
       if (!this.index) {
         this.updateMap();
       }
